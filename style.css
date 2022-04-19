@@ -1,0 +1,31 @@
+
+h1,p{
+        margin-top: 1%;
+        margin-left: 6%;
+}
+a{
+        outline: none;
+        text-decoration: none;
+}
+body{
+        background-color: bisque;
+}
+
+h1,.content,.band{
+        text-align: center;
+}
+header{
+        
+        background-color: aquamarine;
+        
+        
+}
+svg{
+        position: sticky;
+        margin-left: 90%;
+        margin-bottom: 0%;
+        top: 0;
+}
+        
+
+
